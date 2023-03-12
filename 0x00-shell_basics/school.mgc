@@ -1,0 +1,5 @@
+#!/bin/bash
+0 string SCHOOL School
+!:mime School
+Esc :wq
+file -C -m School.mgc
